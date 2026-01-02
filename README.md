@@ -1,4 +1,4 @@
-## Hi there 👋
+## ReadMe en proceso, nada por el momento
 
 <!--
 **mantaimpermeable/mantaimpermeable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
