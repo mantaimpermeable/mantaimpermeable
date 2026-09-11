@@ -1,5 +1,7 @@
-## Actualmente aprendiendo cosas 
-***Pronto updates***
+# Estudiante
+<hr>
+Actualmente estudiando Ingenieria del Software en la Universidad Politécnica de Madrid (UPM) 2º y 
+paralelamente aprendiendo distintas tecnologias de manera autodidacta
 
 <!--
 **mantaimpermeable/mantaimpermeable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
