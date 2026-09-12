@@ -45,3 +45,6 @@ Estudiante de Ingeniería del Software en la UPM, compaginando la formación uni
 - 🚀 Desarrollando proyectos de uso personal o para aplicar conocimientos
 
 ---
+<br>
+
+~~Conozco lo suficiente para saber que no es suficiente~~
